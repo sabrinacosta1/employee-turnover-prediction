@@ -95,7 +95,7 @@ Ensure you have Python 3.x and the following libraries installed:
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/sabrinacosta1/employee-Turnover-Prediction.git
+   git clone https://github.com/sabrinacosta1/employee-turnover-prediction.git
    cd Employee Turnover Prediction
 
 ## Usage
