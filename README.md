@@ -1,4 +1,4 @@
-# employee-turnover-prediction
+# Employee Turnover Prediction: A Data Science Case Study
  ## Case Study #1: Key Learning Outcomes
 
 This project demonstrates how data science can be applied in a human resources context to predict employee turnover. It covers various machine learning techniques, including logistic regression and random forest classifiers, and emphasizes important data science concepts such as exploratory data analysis, model evaluation, and neural networks.
